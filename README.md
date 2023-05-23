@@ -7,4 +7,5 @@ LLM (T5) fine-tuned to decrease occurrences of inappropriate subjectivity in tex
 
 Achieves state of the art performance with a BLEU score of **94.08** for bias neutralization
 
+Train it on [Colab](https://colab.research.google.com/drive/1SzAFosSaVLNcVFkm6Wvbxpa2CspiSHeb?usp=sharing)
 Try it out on [HuggingFace](https://huggingface.co/erickfm/neutrally?text=Neutralize+bias%3A+Mankind+may+eventually+destroy+Earth.)
